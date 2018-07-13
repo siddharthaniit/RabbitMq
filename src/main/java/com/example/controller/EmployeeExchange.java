@@ -36,5 +36,11 @@ public class EmployeeExchange {
 		rabbitTemplate.convertAndSend(exchangeName, routingKey,employee);
 
 	}
+	
+	public void save() {
+		
+		
+		
+	}
 
 }
