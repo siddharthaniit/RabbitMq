@@ -43,4 +43,10 @@ public class EmployeeExchange {
 		
 	}
 
+	
+public void get() {
+		
+		int i =10;
+		
+	}
 }
